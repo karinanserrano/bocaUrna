@@ -1,0 +1,54 @@
+.App {
+  text-align: center;
+  background-image: linear-gradient(135deg, blue, cyan);
+  min-height: 100vh;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  font-size: calc(15px + 2vmin);
+  color: white;
+}
+
+p{
+  margin: 0;
+  padding: 0;
+}
+
+.cajas {
+  color: black;
+  display: flex;
+  flex-direction: column;
+  justify-content: space-between;
+}
+
+.caja {
+  width: 150px;;
+  height: 150px;
+  margin-top: 10px;
+  border: solid 1px black;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;  
+  padding: 5px 5px;
+  border-radius: 20px;
+  background-color: white;
+}
+
+.botones {
+  display: flex;
+  justify-content: space-between;
+}
+
+.contador {
+  font-size: 30px;
+  color: blue;
+}
+
+button {
+  background-color: lightskyblue;
+  padding: 10px 20px;
+  margin: 3px;
+  color: white;
+  border: solid 0.5px grey;
+  border-radius: 5px;
+}
