@@ -1,3 +1,8 @@
+## Proyecto de AP 4.0 de un contador de votos en boca de urna
+
+Consiste en un unico archivo el cual cual ejecuta HTML, CSS, React
+
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
